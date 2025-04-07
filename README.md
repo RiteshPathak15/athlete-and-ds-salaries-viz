@@ -21,14 +21,6 @@ This project explores two fascinating datasets: **Olympic athlete performance** 
 - **Jupyter Notebook**: Interactive environment for analysis and visualization.
 
 
-## 📊 Visualizations
-
-### Athlete Performance
-![Athlete Trends](visuals/athlete_trends.png)
-
-### Data Science Salaries
-![Salary Distribution](visuals/salary_distribution.png)
-
 ## 🌟 How to Run
 
 1. Clone the repository:
